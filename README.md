@@ -3,12 +3,12 @@ This repository contains some programs for basic functioning of autonomous robot
 
 It contains program of -
 
-  1.Basic Line Follower Autonomous Robot
+   1.Basic Line Follower Autonomous Robot
   
-  2.Obstacle Avoider Autonomous Robot
+   2.Obstacle Avoider Autonomous Robot
   
-  3.Wall Follower Autonomous Robot
+   3.Wall Follower Autonomous Robot
   
-  4.Left Wall Follower Autonomous Robot
-  
-  5.Bluetooth Controlled Robot
+   4.Left Wall Follower Autonomous Robot
+   
+   5.Bluetooth Controlled Robot
